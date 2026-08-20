@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-`npm run dev` builds the extension and registers it with Raycast. Once it appears, you can stop the process — the extension stays installed.
+`npm run dev` builds the extension and registers it with Raycast. Once it appears, you can stop the process and the extension stays installed.
 
 On first run Raycast asks for your **Salesforce My Domain**: the prefix in your org's URL, so `acme` for `acme.lightning.force.com`. You can also set **Default Action** to pick which target `Enter` opens first.
 
