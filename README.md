@@ -4,7 +4,7 @@ A [Raycast](https://raycast.com) extension that takes an email address and jumps
 
 Paste anything that contains a bare email, a `mailto:` link, or a `Jane Doe <jane.doe@example.com>` style header value and it gets normalized before the search runs.
 
-https://github.com/user-attachments/assets/a660683b-a39f-4e24-b26b-6c1acaa8006d
+https://github.com/user-attachments/assets/04709c06-bdb5-45b2-bb9f-fe2f529bafb2
 
 ## Install
 
