@@ -2,7 +2,7 @@
 
 A [Raycast](https://raycast.com) extension that takes an email address and jumps straight to it in Salesforce. No tab hunting, no clicking through the global search box.
 
-Paste anything that contains an address — a bare email, a `mailto:` link, or a `Jane Doe <jane.doe@example.com>` style header value — and it gets normalized before the search runs.
+Paste anything that contains a bare email, a `mailto:` link, or a `Jane Doe <jane.doe@example.com>` style header value and it gets normalized before the search runs.
 
 https://github.com/user-attachments/assets/a660683b-a39f-4e24-b26b-6c1acaa8006d
 
