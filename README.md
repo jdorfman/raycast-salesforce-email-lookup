@@ -4,14 +4,7 @@ A [Raycast](https://raycast.com) extension that takes an email address and jumps
 
 Paste anything that contains an address — a bare email, a `mailto:` link, or a `Jane Doe <jane.doe@example.com>` style header value — and it gets normalized before the search runs.
 
-Four search targets, ordered so your preferred one is always first:
-
-- **Lightning global search** — top results across every object
-- **Contacts only** — Classic results; clicking through lands on the Lightning record
-- **Leads only** — same, scoped to leads
-- **All objects** — Classic results, widest net
-
-Actions on any result: `Enter` opens it in your browser, `Cmd+Enter` copies the URL, `Cmd+Shift+Enter` copies it as a Markdown link.
+https://github.com/user-attachments/assets/a660683b-a39f-4e24-b26b-6c1acaa8006d
 
 ## Install
 
